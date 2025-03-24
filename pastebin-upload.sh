@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+## MADE BY AlessandroMglx - https://github.com/AlessandroMglx
 
 echo "Warning: Once the content is uploaded, it will not be possible to remove it from the server."
 
